@@ -1,0 +1,142 @@
+
+===============================
+[2016-09-29 05:51:19] /a/b error here {"post":"test","response":"hello"}  文件：\wp-content\plugins\admin-tool\demo.php 行：46 
+array (
+  'post' => 'test',
+  'response' => 'hello',
+)
+===============================
+
+
+===============================
+[2016-09-29 05:56:48]  test here []  文件：\wp-content\plugins\wp-background-processing-example-master\example-plugin.php 行：158 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 05:57:02]  test here []  文件：\wp-content\plugins\wp-background-processing-example-master\example-plugin.php 行：158 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 05:57:03]  test here []  文件：\wp-content\plugins\wp-background-processing-example-master\example-plugin.php 行：158 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:01:11]  Grant Buel: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum Theophrasti, Strato, physicum se voluit; At coluit ipse amicitias. Primum in nostrane potestate est, quid meminerimus? Duo Reges: constructio interrete. Bonum liberi: misera orbitas. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:01:17]  Bryon Pennywell: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur haec eadem Democritus? Bonum integritas corporis: misera debilitas. Sed haec in pueris; Quibus ego vehementer assentior. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:01:22]  Jarred Mccuiston: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim Polemonis. Si longus, levis dictata sunt. Murenam te accusante defenderem. Nemo igitur esse beatus potest. Prioris generis est docilitas, memoria; []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:01:28]  Reynaldo Azcona: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id enim natura desiderat. Sed fortuna fortis; Cur iustitia laudatur? Quis hoc dicit? Inquit, dasne adolescenti veniam? Duo Reges: constructio interrete. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:06:22]  Sonya Water: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Prave, nequiter, turpiter cenabat; Numquam facies. Itaque contra est, ac dicitis; Quae duo sunt, unum facit. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:06:28]  Marget Bejarano: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minime vero istorum quidem, inquit. Id enim natura desiderat. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:06:34]  Leslee Mans: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Num quid tale Democritus? Mihi enim satis est, ipsis non satis. Scaevolam M. Hoc Hieronymus summum bonum esse dixit. Invidiosum nomen est, infame, suspectum. Duo Reges: constructio interrete. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:06:39]  Fernanda Eldred: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ratio quidem vestra sic cogit. Duo Reges: constructio interrete. Tibi hoc incredibile, quod beatissimum. Aufert enim sensus actionemque tollit omnem. Cave putes quicquam esse verius. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:17]  Sonya Water: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Tum Torquatus: Prorsus, inquit, assentior; Quippe: habes enim a rhetoribus; []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:17]  Sonya Water: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sedulo, inquam, faciam. Zenonis est, inquam, hoc Stoici. In schola desinis. Duo Reges: constructio interrete. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:23]  Marget Bejarano: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Expectoque quid ad id, quod quaerebam, respondeas. Sed haec omittamus; Si longus, levis. At certe gravius. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:23]  Marget Bejarano: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ne discipulum abducam, times. Idemne, quod iucunde? Sed haec omittamus; Estne, quaeso, inquam, sitienti in bibendo voluptas? []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:29]  Leslee Mans: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Ne discipulum abducam, times. Duo Reges: constructio interrete. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:29]  Leslee Mans: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Invidiosum nomen est, infame, suspectum. Quo modo autem philosophus loquitur? Quae sequuntur igitur? At certe gravius. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:34]  Fernanda Eldred: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam te quidem video minime esse deterritum. Beatus sibi videtur esse moriens. Hic nihil fuit, quod quaereremus. Duo Reges: constructio interrete. Omnis enim est natura diligens sui. Quis istum dolorem timet? []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+
+
+===============================
+[2016-09-29 06:12:34]  Fernanda Eldred: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scrupulum, inquam, abeunti; Pollicetur certe. Quae cum essent dicta, discessimus. Eam stabilem appellas. Quid ergo attinet gloriose loqui, nisi constanter loquare? Omnis enim est natura diligens sui. []  文件：\wp-content\plugins\wp-background-processing-example-master\class-logger.php 行：21 
+array (
+)
+===============================
+

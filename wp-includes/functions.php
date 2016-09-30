@@ -5496,4 +5496,11 @@ function dump($var, $echo=true, $label=null, $strict=false) {
     }else
         return $output;
 }
+function wpbp_http_request_args( $r, $url ) {
+	$r['headers']['Authorization'] = 'Basic ' . base64_encode( USERNAME . ':' . PASSWORD );
 
+	return $r;
+}
+add_filter( 'http_request_args', 'wpbp_http_request_args', 10, 2);
+
+date_default_timezone_set('Asia/Shanghai');
