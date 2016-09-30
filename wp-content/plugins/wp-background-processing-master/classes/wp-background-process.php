@@ -350,8 +350,6 @@ if ( ! class_exists( 'WP_Background_Process' ) ) {
 			if ( $current_memory >= $memory_limit ) {
 				$return = true;
 			}
-			$obj = new Logger();
-			Logger::record('memory info',1,array('memory_limit'=>$memory_limit,'current_limit'=>$current_memory));
 
 			return apply_filters( $this->identifier . '_memory_exceeded', $return );
 		}
